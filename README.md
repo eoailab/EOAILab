@@ -1,17 +1,16 @@
-# EO-Churn — [Proje/Müşteri Adı]
+# EO-Churn
 
 ## Proje Hakkında
-EOAI Lab'in "Enterprise Owned AI" felsefesiyle geliştirilen, [müşteri adı] için özel churn tahmin modeli.
+EOAI Lab'in "Enterprise Owned AI" felsefesiyle geliştirilen özel churn tahmin modeli.
 
 ## Başarı Kriteri
-- Hedef metrik: [örn. AUC ≥ 0.85]
-- Teslim tarihi: [tarih]
+- Hedef metrik: Recall > 86.5
+- Teslim tarihi: ______
 
 ## Ekip
 | İsim | Rol | Sorumluluk |
 |---|---|---|
 | Riza | Lead Engineer / Founder | Review, mimari kararlar |
-| Sude | ML Engineer | Model geliştirme |
 
 ## Kurulum
 ```bash
